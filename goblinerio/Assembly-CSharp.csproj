@@ -60,9 +60,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\scripts\die.cs" />
-    <Compile Include="Assets\scripts\PlayerController.cs" />
-    <Compile Include="Assets\scripts\Scenes_Controller.cs" />
+    <Compile Include="Assets\scripts\Animation_cont.cs" />
+    <Compile Include="Assets\scripts\playerController.cs" />
+    <Compile Include="Assets\scripts\scene_contr.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>F:/goblinerio/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>

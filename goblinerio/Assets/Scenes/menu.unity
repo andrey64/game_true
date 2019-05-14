@@ -416,7 +416,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1325747720}
-        m_MethodName: ExitGame
+        m_MethodName: ExitToDesktop
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -545,7 +545,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1325747720}
-        m_MethodName: StarGame
+        m_MethodName: LoadLevel1
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -704,9 +704,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1325747715}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5034e2a13a78f954287f78496824572c, type: 3}
+  m_Script: {fileID: 11500000, guid: beb7bbc45a93c734c8d67eb5872fd6fd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Scene: 2
 --- !u!1 &1583387986
 GameObject:
   m_ObjectHideFlags: 0
